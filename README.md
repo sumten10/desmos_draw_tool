@@ -8,6 +8,8 @@ Tool to make drawings in desmos with cubic bezier curves.
 - D: Apply current line and draw a new one pointing to the cursor.
 
 #
+Note: an api key is needed from desmos.com
+#
 
 <p float="left", align="middle">
   <img src="img/d1.png" width="500" />
